@@ -2,7 +2,9 @@
 
 ## Welcome to po
 
-**po** is your go-to framework for creating stunning parallax websites effortlessly. Inspired by the expressive and declarative style of Flutter's VelocityX, **po** abstracts away the complexities of web development into a high-level syntax that makes building interactive and visually captivating web experiences easy and enjoyable.
+**po** is your go-to framework for creating stunning parallax websites effortlessly. Drawing inspiration from modern UI frameworks and their expressive, chainable syntax, **po** abstracts away the complexities of web development into a high-level, intuitive DSL. This makes building interactive and visually captivating web experiences both easy and enjoyable.
+
+
 
 ## Why Parallax?
 
