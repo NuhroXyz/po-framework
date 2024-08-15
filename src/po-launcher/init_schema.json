@@ -1,0 +1,16 @@
+{
+    "dist":{
+        "index.html":"",
+        "script.js":"",
+        "style.css":""
+    },
+    "src":{
+        "components":{
+            "myComponents.po":""
+        },        
+        "main.po":"",
+        "style.po":""
+    },
+    "po.config.js":"",
+    "README.md":""
+}
